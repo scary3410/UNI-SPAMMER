@@ -10,7 +10,7 @@ def send_post_request(email, payload, num_times):
         "Accept": "application/json, text/plain, */*",
         "Accept-Language": "en-US,en;q=0.5",
         "Accept-Encoding": "gzip, deflate",
-        "Content-Type": "application/json",  # Change content type to application/json
+        "Content-Type": "application/json",  
         "X-Csrf": "151a503bf48d5a908e83b9b0c1301a50",
         "Csrf": "151a503bf48d5a908e83b9b0c1301a50",
         "X-Spacid": "1272",
