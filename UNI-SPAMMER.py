@@ -1,7 +1,7 @@
 import requests
 
 def send_post_request(email, payload, num_times):
-    url = "https://alumni.dituniversity.edu.in/api/admin/inviteToPlatform"
+    url = "redacted"
 
     headers = {
         "Host": "<DELETED>",
